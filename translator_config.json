@@ -1,0 +1,13 @@
+{
+  "confidence_threshold": 0.3,
+  "cam_width": 640,
+  "cam_height": 480,
+  "prediction_window_size": 20,
+  "stability_threshold": 0.7,
+  "tts_display_interval": 0.8,
+  "auto_save_history": true,
+  "show_confidence_bars": true,
+  "enable_gesture_smoothing": true,
+  "dark_theme": true,
+  "tts_rate": 150
+}

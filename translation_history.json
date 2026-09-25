@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "2025-09-29T11:31:55.417452",
+    "type": "sign_to_text",
+    "content": "aoe",
+    "confidence": 0
+  },
+  {
+    "timestamp": "2025-09-29T11:32:00.223149",
+    "type": "sign_to_text",
+    "content": "aoe",
+    "confidence": 0
+  },
+  {
+    "timestamp": "2025-09-29T11:36:29.660345",
+    "type": "sign_to_text",
+    "content": "cab",
+    "confidence": 0
+  },
+  {
+    "timestamp": "2025-09-29T11:36:41.583241",
+    "type": "text_to_sign",
+    "content": "TAXI",
+    "sign_sequence": "TAXI"
+  },
+  {
+    "timestamp": "2025-09-29T11:37:16.112542",
+    "type": "sign_to_text",
+    "content": "cab",
+    "confidence": 0
+  },
+  {
+    "timestamp": "2025-10-23T22:47:27.163147",
+    "type": "sign_to_text",
+    "content": "oeo",
+    "confidence": 0
+  },
+  {
+    "timestamp": "2025-10-23T22:47:38.930462",
+    "type": "text_to_sign",
+    "content": "Hello There",
+    "sign_sequence": "HELLOTHERE"
+  }
+]

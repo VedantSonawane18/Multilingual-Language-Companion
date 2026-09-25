@@ -1,0 +1,101 @@
+2025-09-21 01:46:48,192 - INFO - Starting Advanced Conference Translator Pro
+2025-09-21 01:46:48,296 - CRITICAL - Application startup failed: name 'DeepLTranslator' is not defined
+2025-09-21 01:48:39,662 - INFO - Starting Advanced Conference Translator Pro
+2025-09-21 01:48:40,399 - INFO - Advanced Conference Translator Pro initialized
+2025-09-21 01:49:26,035 - INFO - Application closing
+2025-09-21 01:49:31,219 - INFO - Starting Advanced Conference Translator Pro
+2025-09-21 01:49:31,855 - INFO - Advanced Conference Translator Pro initialized
+2025-09-21 01:50:12,533 - INFO - Translation service started
+2025-09-21 01:50:12,533 - INFO - Starting VAD loop with device: Headset (JBL Tune 520BT)
+2025-09-21 01:50:28,176 - ERROR - Audio enhancement failed: Digital filter critical frequencies must be 0 < Wn < 1
+2025-09-21 01:50:28,177 - ERROR - Audio enhancement failed: Digital filter critical frequencies must be 0 < Wn < 1
+2025-09-21 01:50:28,889 - ERROR - Audio enhancement failed: Digital filter critical frequencies must be 0 < Wn < 1
+2025-09-21 01:50:30,899 - ERROR - Audio enhancement failed: Digital filter critical frequencies must be 0 < Wn < 1
+2025-09-21 01:50:32,926 - ERROR - Audio processing failed: Linear(in_features=512, out_features=512, bias=True)
+2025-09-21 01:50:32,929 - ERROR - Audio processing failed: Linear(in_features=512, out_features=512, bias=True)
+2025-09-21 01:50:32,929 - ERROR - Audio processing failed: cannot reshape tensor of 0 elements into shape [1, 0, 8, -1] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-09-21 01:50:37,581 - INFO - Transcribed: 'Thank you for your things.' (confidence: 0.51)
+2025-09-21 01:50:44,892 - INFO - Translation service stopped
+2025-09-21 01:51:13,228 - INFO - Translation service started
+2025-09-21 01:51:13,228 - INFO - Starting VAD loop with device: Headset (JBL Tune 520BT)
+2025-09-21 01:51:18,856 - ERROR - Audio enhancement failed: Digital filter critical frequencies must be 0 < Wn < 1
+2025-09-21 01:51:19,638 - INFO - Transcribed: 'Thank you so much.' (confidence: 0.50)
+2025-09-21 01:51:19,731 - ERROR - Translation failed: None --> 
+You have to pass your api_key!
+You can do this by passing the key as a parameter/argument to the translator class
+or by setting the environment variable DEEPL_API_KEY
+
+Example: export DEEPL_API_KEY="your_api_key"
+
+2025-09-21 01:51:19,732 - ERROR - Translation failed: None --> 
+You have to pass your api_key!
+You can do this by passing the key as a parameter/argument to the translator class
+or by setting the environment variable DEEPL_API_KEY
+
+Example: export DEEPL_API_KEY="your_api_key"
+
+2025-09-21 01:51:19,732 - ERROR - Translation failed: None --> 
+You have to pass your api_key!
+You can do this by passing the key as a parameter/argument to the translator class
+or by setting the environment variable DEEPL_API_KEY
+
+Example: export DEEPL_API_KEY="your_api_key"
+
+2025-09-21 01:51:19,748 - ERROR - Translation failed: None --> 
+You have to pass your api_key!
+You can do this by passing the key as a parameter/argument to the translator class
+or by setting the environment variable DEEPL_API_KEY
+
+Example: export DEEPL_API_KEY="your_api_key"
+
+2025-09-21 01:51:19,748 - ERROR - Translation failed: None --> 
+You have to pass your api_key!
+You can do this by passing the key as a parameter/argument to the translator class
+or by setting the environment variable DEEPL_API_KEY
+
+Example: export DEEPL_API_KEY="your_api_key"
+
+2025-09-21 01:51:19,748 - ERROR - Translation failed: None --> 
+You have to pass your api_key!
+You can do this by passing the key as a parameter/argument to the translator class
+or by setting the environment variable DEEPL_API_KEY
+
+Example: export DEEPL_API_KEY="your_api_key"
+
+2025-09-21 01:51:26,180 - INFO - Translation service stopped
+2025-09-21 01:51:32,290 - INFO - Application closing
+2025-09-29 11:24:53,091 - INFO - Starting Advanced Conference Translator Pro
+2025-09-29 11:24:53,831 - INFO - Advanced Conference Translator Pro initialized
+2025-09-29 11:25:31,608 - INFO - Translation service started
+2025-09-29 11:25:31,608 - INFO - Starting VAD loop with device: Headset (JBL Tune 520BT)
+2025-09-29 11:25:35,655 - ERROR - Audio enhancement failed: Digital filter critical frequencies must be 0 < Wn < 1
+2025-09-29 11:25:38,694 - INFO - Transcribed: 'Good morning.' (confidence: 0.48)
+2025-09-29 11:25:46,887 - INFO - Translation service stopped
+2025-09-29 11:27:02,136 - INFO - Translation service started
+2025-09-29 11:27:02,136 - INFO - Starting VAD loop with device: Headset (JBL Tune 520BT)
+2025-09-29 11:27:05,931 - ERROR - Audio enhancement failed: Digital filter critical frequencies must be 0 < Wn < 1
+2025-09-29 11:27:06,783 - INFO - Transcribed: 'Hello, it is nice to meet you' (confidence: 0.90)
+2025-09-29 11:27:08,615 - ERROR - TTS generation failed: type object 'AudioSegment' has no attribute 'from_mp3'
+2025-09-29 11:27:08,919 - ERROR - TTS generation failed: type object 'AudioSegment' has no attribute 'from_mp3'
+2025-09-29 11:27:09,156 - ERROR - TTS generation failed: type object 'AudioSegment' has no attribute 'from_mp3'
+2025-09-29 11:27:09,265 - ERROR - TTS generation failed: type object 'AudioSegment' has no attribute 'from_mp3'
+2025-09-29 11:27:10,020 - ERROR - TTS generation failed: type object 'AudioSegment' has no attribute 'from_mp3'
+2025-09-29 11:27:18,182 - ERROR - Audio enhancement failed: Digital filter critical frequencies must be 0 < Wn < 1
+2025-09-29 11:27:18,948 - INFO - Transcribed: 'Thank you for joining us today on this conference date.' (confidence: 0.69)
+2025-09-29 11:27:21,710 - ERROR - TTS generation failed: type object 'AudioSegment' has no attribute 'from_mp3'
+2025-09-29 11:27:22,141 - ERROR - TTS generation failed: type object 'AudioSegment' has no attribute 'from_mp3'
+2025-09-29 11:27:22,224 - ERROR - TTS generation failed: type object 'AudioSegment' has no attribute 'from_mp3'
+2025-09-29 11:27:22,540 - ERROR - TTS generation failed: type object 'AudioSegment' has no attribute 'from_mp3'
+2025-09-29 11:27:22,773 - ERROR - TTS generation failed: type object 'AudioSegment' has no attribute 'from_mp3'
+2025-09-29 11:27:30,103 - INFO - Translation service stopped
+2025-09-29 11:28:15,966 - INFO - Application closing
+2025-10-23 22:43:12,999 - INFO - Starting Advanced Conference Translator Pro
+2025-10-23 22:43:13,906 - INFO - Advanced Conference Translator Pro initialized
+2025-10-23 22:44:04,151 - INFO - Translation service started
+2025-10-23 22:44:04,152 - INFO - Starting VAD loop with device: Microsoft Sound Mapper - Input
+2025-10-23 22:44:29,230 - ERROR - Audio enhancement failed: Digital filter critical frequencies must be 0 < Wn < 1
+2025-10-23 22:44:29,240 - ERROR - Audio enhancement failed: Digital filter critical frequencies must be 0 < Wn < 1
+2025-10-23 22:44:36,149 - ERROR - Audio processing failed: Linear(in_features=512, out_features=512, bias=True)
+2025-10-23 22:44:40,061 - INFO - Transcribed: 'how nice of you to attend this' (confidence: 0.52)
+2025-10-23 22:44:45,743 - INFO - Translation service stopped
+2025-10-23 22:44:48,987 - INFO - Application closing
